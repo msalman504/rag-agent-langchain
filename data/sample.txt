@@ -3,3 +3,4 @@ Gemini is a family of multimodal AI models developed by Google.
 RAG stands for Retrieval-Augmented Generation.
 This agent uses Gemini and ChromaDB to answer questions.
 Salman is one of the coolest humans
+Allowed file extensions are pdf, txt and md
